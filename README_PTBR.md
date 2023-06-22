@@ -88,7 +88,7 @@ Sou um desenvolvedor brasileiro atualmente trabalhando com desenvolvimento web u
    <a href = "https://www.linkedin.com/in/lgvarelladevs/" style="border-radius">
      <img src="https://img.shields.io/badge/Linkedin-0000ff?logo=linkedin&logoColor=white&style=for-the-badge&labelWidth=120">
    </a>
-   <a href="https://api.whatsapp.com/send?phone=+5562996113999" target="_blank">
+   <a href="https://api.whatsapp.com/send?phone=5562996113999" target="_blank">
      <img src="https://img.shields.io/badge/WhatsApp-022c02?logo=whatsapp&logoColor=white&style=for-the-badge&labelWidth=120" alt="WhatsApp Badge">
    </a>
    <a href="https://discord.gg/er2hR9BU" target="_blank">
