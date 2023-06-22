@@ -1,4 +1,8 @@
-### Hey, I'm Luis Varella 😉
+<p align="right">
+    <a href="https://github.com/lgfvarella/lgfvarella/blob/main/README_PTBR.md">🇧🇷 Versão em português 🇧🇷</a>
+</p>
+
+### Hey, what's up! I'm Luis Varella 😉
 <br>
 I'm a Brazilian developer currently working with web development using angular and spring most of the time and learning mobile development with flutter. I have a degree in systems analysis and I spend my free time with games, movies, series and anime.
 <hr>
@@ -77,14 +81,24 @@ I'm a Brazilian developer currently working with web development using angular a
 </div>-->
 
 <div> 
-  
  <hr>
+
+ ### Need to contact me? Feel free to call me!
+ <br>
+ 
    <a href = "mailto:lgfvarella@gmail.com" style="border-radius">
      <img src="https://img.shields.io/badge/Gmail-ff0000?logo=gmail&logoColor=white&style=for-the-badge&labelWidth=120">
    </a>
    <a href = "https://www.linkedin.com/in/lgvarelladevs/" style="border-radius">
      <img src="https://img.shields.io/badge/Linkedin-0000ff?logo=linkedin&logoColor=white&style=for-the-badge&labelWidth=120">
    </a>
+   <a href="https://api.whatsapp.com/send?phone=+5562996113999" target="_blank">
+     <img src="https://img.shields.io/badge/WhatsApp-022c02?logo=whatsapp&logoColor=white&style=for-the-badge&labelWidth=120" alt="WhatsApp Badge">
+   </a>
+   <a href="https://discord.gg/er2hR9BU" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-40128b?logo=discord&logoColor=white&style=for-the-badge&labelWidth=120" alt="Discord Badge">
+   </a>
+
    
 </div>
 
